@@ -1840,6 +1840,7 @@ input, select, textarea {
 
 					ul.social li a:hover:before {
 						background-color: transparent;
+						color:white;
 					}
 
 /* Actions */
