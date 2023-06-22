@@ -1814,7 +1814,7 @@ input, select, textarea {
 					width: 48px;
 				}
 
-				ul.social li a.fa-twitter {
+				/* ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
 				}
 
@@ -1832,7 +1832,7 @@ input, select, textarea {
 
 				ul.social li a.fa-whatsapp {
 				 background-color: #25d366;
-				}
+				} */
 
 				ul.social li a:hover {
 					top: -5px;
